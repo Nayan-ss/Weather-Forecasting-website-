@@ -17,3 +17,5 @@ The Weather Forecasting App is a web-based application that provides current wea
 - **CSS**: Enhances the visual design and layout of the application, making it responsive and aesthetically pleasing.
 - **JavaScript**: Handles the logic for fetching weather data from the OpenWeatherMap API and updating the user interface dynamically.
 - **OpenWeatherMap API**: A third-party API used to retrieve weather data.
+
+![Screenshot 2024-07-29 005831](https://github.com/user-attachments/assets/2f4812e7-ff9d-4ea2-af02-ea7a93a4c2a1)
